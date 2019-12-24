@@ -1,6 +1,6 @@
 # hello_flutter_web
 
-A new Flutter Web project.
+A new Flutter for Web project.
 
 ## Getting Started
 
